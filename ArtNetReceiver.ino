@@ -1,6 +1,6 @@
 /*************************
  * ArtNet FastLED
- * Edoardo Viviani <edoardo.viviani@gmail.com
+ * Edoardo Viviani <edoardo.viviani@gmail.com>
  * 08/02/2020
  */
 
